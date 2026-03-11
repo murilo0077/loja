@@ -13,7 +13,6 @@ def mostrar_estoque():
     print("6:", produtos[6], "| R$", precos[6])
     print("7:", produtos[7], "| R$", precos[7])
 
-    if len(produtos) > 8:
         print("8:", produtos[8], "| R$", precos[8])
     print("-------------------")
 
